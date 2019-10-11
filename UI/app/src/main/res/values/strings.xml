@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="tv_next">Next</string>
+    <string name="tv_check_box">CheckBox</string>
+    <string name="tv_radio_button">RadioButton</string>
+    <string name="tv_radio_button_1">A</string>
+    <string name="tv_radio_button_2">B</string>
+    <string name="tv_radio_button_3">C</string>
+    <string name="tv_radio_button_4">D</string>
+    <string name="tv_switch">Switch</string>
+    <string name="tv_open">Open</string>
+    <string name="tv_close">Close</string>
+</resources>

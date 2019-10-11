@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/ic_clown"
+        android:maxLevel="0" />
+    <item
+        android:drawable="@mipmap/ic_flower"
+        android:maxLevel="1" />
+    <item
+        android:drawable="@mipmap/ic_girl"
+        android:maxLevel="2" />
+    <item
+        android:drawable="@mipmap/ic_plant"
+        android:maxLevel="3" />
+</level-list>
